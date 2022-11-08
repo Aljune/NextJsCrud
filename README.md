@@ -1,0 +1,2 @@
+# NextJsCrud
+NextJs Crud Typscript
